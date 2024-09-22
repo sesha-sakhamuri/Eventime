@@ -88,6 +88,7 @@ func main() {
 		return
 	}
 
+	fmt.Println("Result: ")
 	fmt.Println(string(output))
 }
 
