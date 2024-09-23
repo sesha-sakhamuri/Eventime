@@ -17,3 +17,7 @@ go run main.go
 #### Replit import instructions
 
 - Imported the github project into replit and clicked on Run to execute the code
+
+```
+https://replit.com/@seshasakhamuri/Eventime
+```
